@@ -6,39 +6,48 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/1Hospital/1HospitalDoc.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/1Bedroom.unity
+    guid: d2a00057af306d24d92e225a5a68d35c
   - enabled: 1
-    path: Assets/Scenes/1Hospital/2HospitalPhoto.unity
-    guid: 554f7c6efea4e86458bb4a012d3f65bc
+    path: Assets/Scenes/2News.unity
+    guid: b40e008453564b44192415ec28f791b6
   - enabled: 1
-    path: Assets/Scenes/1Hospital/3HospitalNoDoc.unity
-    guid: dca02335a84ca90449873872bec26e2a
+    path: Assets/Scenes/3BedroomLeave.unity
+    guid: 374988efe43d6574a871a81a932753db
   - enabled: 1
-    path: Assets/Scenes/2House/4BedroomWife.unity
-    guid: 3122a6619375b684ca9ad28bbc929adc
+    path: Assets/Scenes/4Arrived.unity
+    guid: 0470e159164963841b87ab5a960cc7c0
   - enabled: 1
-    path: Assets/Scenes/2House/5BedroomDrug.unity
-    guid: c2b222364c04ba649b9ee6b26518116f
+    path: Assets/Scenes/5Headset.unity
+    guid: ae4fe83bd623e8241b0c9295c60d7b2e
   - enabled: 1
-    path: Assets/Scenes/2House/6BedroomGiven.unity
-    guid: 21eeaafbe9fb45c4180a1360aaa44c83
+    path: Assets/Scenes/6EnterVR.unity
+    guid: ea644c479f3a041438fbb8543cf37dc5
   - enabled: 1
-    path: Assets/Scenes/2House/7Hallway.unity
-    guid: 5975c506c68bf52438ae16cc799e55b4
+    path: Assets/Scenes/7VRWorld.unity
+    guid: 1fc224fbd4ab832498b557c64ace06a9
   - enabled: 1
-    path: Assets/Scenes/2House/8HallwaySmile.unity
-    guid: a117d3ebb27478e4280bb639b4d56d56
+    path: Assets/Scenes/8LeaveRoom.unity
+    guid: 3fea06cc7e25b4342b4a3c40ce730733
   - enabled: 1
-    path: Assets/Scenes/3Car&Bar/9Car.unity
-    guid: d59f02ff5b3e2084e90cda0887f8b6d7
+    path: Assets/Scenes/9EnterVR2.unity
+    guid: da568b4e478655e47ac37c9f5c953fec
   - enabled: 1
-    path: Assets/Scenes/3Car&Bar/10Bar.unity
-    guid: ee3893438ac6fad4386a39052ef7c22c
+    path: Assets/Scenes/10VRWorld2.unity
+    guid: 94e9defeb40b44b459b7240411477459
   - enabled: 1
-    path: Assets/Scenes/3Car&Bar/11BarLady.unity
-    guid: d8116d0f38dd7694d8cc997f7ff0e650
+    path: Assets/Scenes/11EnterVR3.unity
+    guid: 35f80c63897e40b41bfd01bf8619a548
   - enabled: 1
-    path: Assets/Scenes/3Car&Bar/12City.unity
-    guid: f63c8d01f501e1f4499636b2d9320c03
+    path: Assets/Scenes/12VRWorld3.unity
+    guid: 5e725e5ffc4bda943af79866cef67ced
+  - enabled: 1
+    path: Assets/Scenes/13EnterRoom.unity
+    guid: 21a7a0e12c1920d45850a959d812b390
+  - enabled: 1
+    path: Assets/Scenes/14CheckBenny.unity
+    guid: 4b5c78f1c04a8144d97e9f0c2d7d46a9
+  - enabled: 1
+    path: Assets/Scenes/15BennyDeath.unity
+    guid: 30943521e6a7bf14face97b721b40b02
   m_configObjects: {}
